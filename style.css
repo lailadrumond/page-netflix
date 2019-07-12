@@ -1,0 +1,33 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.header__image{
+	width: 200px;
+}
+
+body{
+	background-color: #000;
+}
+
+h1{
+	color: #FFF;
+	text-align: center;
+	font-size: 60px;
+}
+
+p{
+	color: #FFF;
+	margin-left: 50px;
+}
+
+.block__image{
+	display: flex;
+	justify-content: center;
+}
+
+.main__image{
+	width: 180px;
+	padding: 20px;
+}
