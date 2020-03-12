@@ -1,33 +1,34 @@
 *{
 	padding: 0;
 	margin: 0;
+	box-sizing: border-box;
 }
 
-.header__image{
-	width: 200px;
+.header-image{
+	width: 180px;
 }
 
 body{
 	background-color: #000;
 }
 
-h1{
+.main-title{
 	color: #FFF;
 	text-align: center;
 	font-size: 60px;
 }
 
-p{
+figcaption{
 	color: #FFF;
 	margin-left: 50px;
 }
 
-.block__image{
+.block-image{
 	display: flex;
 	justify-content: center;
 }
 
-.main__image{
+.main-image{
 	width: 180px;
 	padding: 20px;
 }
